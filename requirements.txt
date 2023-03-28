@@ -106,7 +106,7 @@ pyutilib==6.0.0
     # via -r requirements.in
 pyyaml==6.0
     # via -r requirements.in
-redis==4.1.4
+redis==4.3.6
     # via rq
 repoze-who==2.4.1
     # via -r requirements.in
