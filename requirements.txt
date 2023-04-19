@@ -127,7 +127,7 @@ sqlalchemy[mypy]==1.4.0
     # via
     #   -r requirements.in
     #   alembic
-sqlparse==0.4.2
+sqlparse==0.4.4
     # via -r requirements.in
 typing-extensions==4.1.1
     # via -r requirements.in
