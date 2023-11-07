@@ -63,7 +63,7 @@ jinja2==3.0.3
     #   flask-babel
 lxml==4.8.0
     # via feedgen
-mako==1.2.0
+mako==1.2.2
     # via alembic
 markdown==3.3.6
     # via -r requirements.in
@@ -83,7 +83,7 @@ polib==1.1.1
     # via -r requirements.in
 psycopg2==2.9.3
     # via -r requirements.in
-pyjwt==2.3.0
+pyjwt==2.4.0
     # via -r requirements.in
 pyparsing==3.0.7
     # via packaging
@@ -106,7 +106,7 @@ pyutilib==6.0.0
     # via -r requirements.in
 pyyaml==6.0
     # via -r requirements.in
-redis==4.1.4
+redis==4.3.6
     # via rq
 repoze-who==2.4.1
     # via -r requirements.in
@@ -127,7 +127,7 @@ sqlalchemy[mypy]==1.4.0
     # via
     #   -r requirements.in
     #   alembic
-sqlparse==0.4.2
+sqlparse==0.4.4
     # via -r requirements.in
 typing-extensions==4.1.1
     # via -r requirements.in
