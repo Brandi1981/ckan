@@ -1,5 +1,5 @@
 # See CKAN docs on installation from Docker Compose on usage
-FROM ubuntu:focal AS base
+FROM ubuntu:20.04 AS base
 MAINTAINER Open Knowledge
 
 # Set timezone
