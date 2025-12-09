@@ -127,7 +127,7 @@ sqlalchemy[mypy]==1.4.0
     # via
     #   -r requirements.in
     #   alembic
-sqlparse==0.4.2
+sqlparse==0.5.4
     # via -r requirements.in
 typing-extensions==4.1.1
     # via -r requirements.in
@@ -135,7 +135,7 @@ tzdata==2022.1
     # via pytz-deprecation-shim
 tzlocal==4.1
     # via -r requirements.in
-urllib3==1.26.9
+urllib3==2.6.0
     # via requests
 watchdog==2.1.6
     # via werkzeug
